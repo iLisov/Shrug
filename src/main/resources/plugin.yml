@@ -1,0 +1,8 @@
+name: Shrug
+version: ${project.version}
+main: me.ilisov.shrug.Shrug
+api-version: 1.16
+description: shrug
+commands:
+  shrug:
+    description: shrug
