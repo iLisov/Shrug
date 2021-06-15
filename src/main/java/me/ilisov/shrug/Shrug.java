@@ -13,6 +13,6 @@ public final class Shrug extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        getLogger().info("Shrug disable, А ты чего ожидал?");
+        getLogger().info("Shrug disable, А ты чего ожидал? :)");
     }
 }

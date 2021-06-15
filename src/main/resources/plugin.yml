@@ -6,3 +6,4 @@ description: shrug
 commands:
   shrug:
     description: shrug
+    permission: Shrug.shrug
